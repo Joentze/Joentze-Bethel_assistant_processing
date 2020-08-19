@@ -1,0 +1,14 @@
+Request_query_01:0/0
+Search_01:1/7/2
+Search_02:7/2
+Search_03:10/0
+Search_04:10/4
+WA_Search_01:1/7/2/8/4
+WA_Search_02:1/7/2/6/8/4
+WA_Search_03:7/2/8/4
+WA_Search_04:7/2/6/8/4
+WA_Search_05:7/8/4
+WA_Search_06:8/0
+News_02:9/0
+News_03:1/7/2/6/4
+News_04:9/5
