@@ -1,4 +1,4 @@
-  String GnewsAPIkey ="a35fef88d2a3d50d06038787a88db636";
+  String GnewsAPIkey ="";
 
 
 class newsSearch {

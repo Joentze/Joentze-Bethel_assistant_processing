@@ -7,7 +7,7 @@
   */
   
  
-  String wolfram_APIkey = "JK3YYP-LPYQXL27Q6";
+  String wolfram_APIkey = "J";
   
 class generalSearch{
   
